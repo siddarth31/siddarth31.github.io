@@ -1,200 +1,149 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Siddarth Jain",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "summary": "Siddarth is a Principal Research Scientist at Mitsubishi Electric Research Laboratories (MERL). His research spans computer vision, machine learning, and robotics, with a focus on enabling autonomous systems to perceive, understand, and act in the physical world. He develops data-driven and geometric approaches for learning, perception, manipulation, and decision-making, with applications in human–robot collaboration and real-world automation."
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
+      "institution": "Northwestern University, Evanston, IL, USA",
+      "url": "https://www.northwestern.edu/",
+      "area": "Computer Science",
+      "studyType": "Doctor of Philosophy (Ph.D.)",
+      "startDate": "2013-01-01",
+      "endDate": "2019-06-30",
+      "courses": ["Computer Vision and Machine Learning for Assistive Robotics"]
+    },
+    {
+      "institution": "Northwestern University, Evanston, IL, USA",
+      "url": "https://www.northwestern.edu/",
+      "area": "Computer Science",
+      "studyType": "Master of Science (M.S.)",
+      "startDate": "2013-01-01",
+      "endDate": "2015-06-30",
+      "courses": ["Robotic Manipulation, Computer Vision, Machine Learning"]
+    }    
+  ], 
+
+  "work": [
+    {
+      "name": "Principal Research Scientist",
+      "position": "Mitsubishi Electric Research Laboratories, Cambridge, MA",
+      "url": "https://merl.com/",      
+      "startDate": "2019-09-19",
+      "endDate": "currrent"
+    },
+    {
+      "name": "Graduate Research Assistant",
+      "position": "Shirley Ryan AbilityLab, Chicago, IL",
+      "url": "https://www.sralab.org/",
+      "startDate": "2013-01-01",
+      "endDate": "2019-06-30"
+    },
+    {
+      "name": "Summer Research Assistant",
+      "position": "Innovations Lab, Feinberg School of Medicine, Chicago, IL",
+      "url": "https://www.feinberg.northwestern.edu/sites/simulation/services/innovations-lab/index.html",
+      "startDate": "2015-05-01",
+      "endDate": "2015-08-15"
+    },   
+    {
+      "name": "Fellow Research Intern",
+      "position": "GE Global Research, Niskayuna, NY",
+      "url": "https://www.geglobalresearch.com/ge-sub/locations/niskayuna-ny-usa",
+      "startDate": "2018-05-01",
+      "endDate": "2018-08-15"
+    }        
   ],
-  "awards": [
+
+  "professional activities": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      "organization": "International Conference on Robotics and Automation (ICRA)",
+      "position": "Session Chair",
+      "url": "https://2025.ieee-icra.org/",
+      "startDate": "2025-05-21",
+      "endDate": "2025-05-21",
+      "summary": "Regular session on Human-Robot Collaboration 2."
+    },
+    {
+      "organization": "IEEE Robotics and Automation Letters (RA-L)",
+      "position": "Associate Editor",
+      "url": "https://www.ieee-ras.org/publications/ra-l",
+      "startDate": "2020-01-01",
+      "endDate": "current"
+      //"summary": "I oversee manuscript submissions for the journal and its affiliated IEEE conferences, including ICRA, IROS, and CASE. My responsibilities include recruiting and assigning reviewers and preparing decision summaries for submitted manuscripts."
+    },
+    {
+      "position": "Invited Peer Reviewer",
+      "startDate": "2012-01-01",
+      "endDate": "current",
+      "summary": "Served as a reviewer for leading journals and international conferences.",
+      "highlights": ["IEEE Robotics and Automation Letters (RA-L)", 
+      "ACM Transactions on Human-Robot Interaction (THRI)",
+      "IEEE Transactions on Robotics (T-RO)", 
+      "IEEE Transactions on Artificial Intelligence (TAI)",
+      "Frontiers in Robotics and AI Human-Robot Interaction",
+      "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "Autonomous Robots (AURO)",
+      "Robotics and Autonomous Systems",
+      "IEEE International Conference on Robotics an Automation (ICRA)",
+      "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "ACM/IEEE International Conference on Human Robot Interaction (HRI)",
+      "IEEE International Conf. on Biomedical Robo. and Biomechatronics (BioRob)",
+      "IFAC Cyber-Physical and Human Systems (CPHS)",
+      "RSS 2021 Workshop on Advancing Artificial Intelligence and Manipulation",
+      "RSS 2019 Workshop on AI and Its Alternatives in Robotics",
+      "RSS 2017 Workshop on Spatial-Semantic Representations in Robotics",
+      "RSS 2017 Workshop on Mathematical Models, Algorithms, and HRI",
+      "IROS 2014 Workshop on Rehabilitation and Assistive Robotics"]
+    },
+    {
+      "organization": "RSS 2021 Workshop on Advancing Artificial Intelligence and Manipulation for Robotics",
+      "position": "Workshop Organizer",
+      "url": "https://sites.google.com/view/rss-ai-manipulationperspective/home",
+      "startDate": "2021-06-12",
+      "endDate": "2021-06-16",
+      "summary": "Co-organized a technical workshop at RSS 2021 in collaboration with MIT, NIST, NVIDIA, UMass Lowell, and Google AI."
+    },
+    {
+      "organization": "RSS 2017 Workshop on Human-Centered Robotics, Massachusetts Institute of Technology, Cambridge, MA",
+      "position": "Workshop Organizer",
+      "url": "https://users.eecs.northwestern.edu/~sjq751/Human-Centered-Robotics-RSS17.html",
+      "startDate": "2017-06-15",
+      "endDate": "2017-06-16"
+      //"summary": "Proposed and co-organized a technical workshop at RSS 2017."
+    },
+    {
+      "organization": "International Science and Engineering Fair (ISEF)",
+      "position": "Finalist Judge",
+      "url": "https://www.societyforscience.org/isef/",
+      "startDate": "2019-03-12",
+      "endDate": "2019-03-16",
+      "summary": "Volunteered as a judge evaluating student projects from Chicago Public Schools for participation in the International Science and Engineering Fair."
+    }         
   ],
-  "certificates": [
+
+  "advising and mentoring": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      // "organization": "International Conference on Robotics and Automation (ICRA)",
+      "position": "Graduate Student Research",
+      "summary": "Advised graduate student interns.",
+      "startDate": "",
+      "endDate": "",
+      "highlights": ["Abraham George, Carnegie Mellon University (2025)", 
+        "Qian Qiyang, University of California, Berkeley (2025)",
+        "Miquel Oller, University of Michigan (2024)",
+        "Ho Jin Choi, University of Pennsylvania (2024)",
+        "Prasanth Suresh, University of Georgia (2023)",
+        "Hanonan Chang, Rutgers University (2023)",
+        "Yash Shukla, Tufts University (2023)",
+        "Baichuan Huang, Rutgers University (2022)",
+        "Aidan Curtis, Massachusetts Institute of Technology (2022)",
+        "Ben Abbatematteo, Brown University (2021)",
+        "Xinghao Zhu, University of California, Berkeley (2021)"
+        ]
     }
   ]
+
 }
