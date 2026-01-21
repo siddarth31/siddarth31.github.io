@@ -1,0 +1,199 @@
+metadata:
+  last_updated: '2026-01-21'
+papers:
+  JwqlSUQAAAAJ:08ZZubdj9fEC:
+    citations: 2
+    title: Interactive tactile perception method for classification and recognition of object instances
+    year: '2023'
+  JwqlSUQAAAAJ:4fKUyHm3Qg0C:
+    citations: 15
+    title: Generalizable human-robot collaborative assembly using imitation learning and force control
+    year: '2023'
+  JwqlSUQAAAAJ:5awf1xo2G04C:
+    citations: 0
+    title: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation
+    year: '2025'
+  JwqlSUQAAAAJ:5ugPr518TE4C:
+    citations: 1
+    title: Tactile Pose Feedback for Closed-loop Manipulation Tasks
+    year: '2023'
+  JwqlSUQAAAAJ:9vf0nzSNQJEC:
+    citations: 25
+    title: 'Llmphy: Complex physical reasoning using large language models and world models'
+    year: '2024'
+  JwqlSUQAAAAJ:AXPGKjj_ei8C:
+    citations: 3
+    title: 'Autonomous robotic assembly: From part singulation to precise assembly'
+    year: '2024'
+  JwqlSUQAAAAJ:B3FOqHPlNUQC:
+    citations: 10
+    title: Task-directed exploration in continuous pomdps for robotic manipulation of articulated objects
+    year: '2022'
+  JwqlSUQAAAAJ:D_sINldO8mEC:
+    citations: 3
+    title: Discriminative 3D Shape Modeling for Few-Shot Instance Segmentation
+    year: '2023'
+  JwqlSUQAAAAJ:HE397vMXCloC:
+    citations: 58
+    title: Interactive planning using large language models for partially observable robotic tasks
+    year: '2024'
+  JwqlSUQAAAAJ:JoZmwDi-zQgC:
+    citations: 0
+    title: Open Human-Robot Collaboration using Decentralized Inverse Reinforcement Learning
+    year: '2024'
+  JwqlSUQAAAAJ:K3LRdlH-MEoC:
+    citations: 0
+    title: "InSeGAN: A Generative Approach to Segmenting Identical Instances in Depth Images\u2014Supplementary Material\u2014"
+    year: Unknown Year
+  JwqlSUQAAAAJ:LjlpjdlvIbIC:
+    citations: 0
+    title: Human Monitoring with Correlation-based Dynamic Time Warping for Collaborative Assembly
+    year: Unknown Year
+  JwqlSUQAAAAJ:Mojj43d5GZwC:
+    citations: 5
+    title: Human action understanding-based robot planning using multimodal llm
+    year: '2024'
+  JwqlSUQAAAAJ:N5tVd3kTz84C:
+    citations: 0
+    title: System and method for robot planning using large language models
+    year: '2025'
+  JwqlSUQAAAAJ:P5F9QuxV20EC:
+    citations: 237
+    title: Human-in-the-loop optimization of shared autonomy in assistive robotics
+    year: '2016'
+  JwqlSUQAAAAJ:PELIpwtuRlgC:
+    citations: 6
+    title: Open Human-Robot Collaboration using Decentralized Inverse Reinforcement Learning
+    year: '2024'
+  JwqlSUQAAAAJ:RGFaLdJalmkC:
+    citations: 7
+    title: 'Automated and Objective Assessment of Surgical Training: Detection of Procedural Steps on Videotaped Performances'
+    year: '2015'
+  JwqlSUQAAAAJ:Tiz5es2fbqcC:
+    citations: 3
+    title: Visual 3D Perception for Interactive Robotic Tactile Data Acquisition
+    year: '2021'
+  JwqlSUQAAAAJ:VL0QpB8kHFEC:
+    citations: 0
+    title: Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM
+    year: '2025'
+  JwqlSUQAAAAJ:WbkHhVStYXYC:
+    citations: 2
+    title: 'InSeGAN: A generative approach to segmenting identical instances in depth images'
+    year: '2021'
+  JwqlSUQAAAAJ:WqliGbK-hY8C:
+    citations: 1
+    title: 'Pace: proactive assistance in human-robot collaboration through action-completion estimation'
+    year: '2025'
+  JwqlSUQAAAAJ:XiSMed-E-HIC:
+    citations: 7
+    title: Interactive Tactile Perception for Classification of Novel Object Instances
+    year: '2020'
+  JwqlSUQAAAAJ:Y5dfb0dijaUC:
+    citations: 3
+    title: Method and System for Generating a Sequence of Actions for Controlling a Robot
+    year: '2024'
+  JwqlSUQAAAAJ:ZuybSZzF8UAC:
+    citations: 0
+    title: System and Method for Interactive Robot Action Replanning Using Large Language Models
+    year: '2025'
+  JwqlSUQAAAAJ:_B80troHkn4C:
+    citations: 4
+    title: 'Insert-One: One-Shot Robust Visual-Force Servoing for Novel Object Insertion with 6-DoF Tracking'
+    year: '2024'
+  JwqlSUQAAAAJ:abG-DnoFyZgC:
+    citations: 13
+    title: An Approach for Online User Customization of Shared Autonomy for Intelligent Assistive Devices
+    year: '2016'
+  JwqlSUQAAAAJ:b0M2c_1WBrUC:
+    citations: 83
+    title: Grasp Detection for Assistive Robotic Manipulation
+    year: '2016'
+  JwqlSUQAAAAJ:bnK-pcrLprsC:
+    citations: 0
+    title: Learning Generalizable Pivoting Skills with Object Feature Based State/Action Projections
+    year: Unknown Year
+  JwqlSUQAAAAJ:dTyEYWd-f8wC:
+    citations: 0
+    title: 'Open Human-Robot Collaboration Systems (OHRCS): A Research Perspective'
+    year: '2024'
+  JwqlSUQAAAAJ:dshw04ExmUIC:
+    citations: 5
+    title: Estimation of Surface Geometries in Point Clouds for the Manipulation of Novel Household Objects
+    year: '2017'
+  JwqlSUQAAAAJ:eMMeJKvmdy0C:
+    citations: 8
+    title: 'DECAF: a Discrete-Event based Collaborative Human-Robot Framework for Furniture Assembly'
+    year: '2024'
+  JwqlSUQAAAAJ:eq2jaN3J8jMC:
+    citations: 7
+    title: Interactive robot action replanning using multimodal llm trained from human demonstration videos
+    year: '2025'
+  JwqlSUQAAAAJ:kRWSkSYxWN8C:
+    citations: 1
+    title: Vision Guided Food Assembly by Robot Teaching from Target Composition
+    year: '2023'
+  JwqlSUQAAAAJ:l7t_Zn2s7bgC:
+    citations: 13
+    title: Learning to synthesize volumetric meshes from vision-based tactile imprints
+    year: '2022'
+  JwqlSUQAAAAJ:mvPsJ3kp5DgC:
+    citations: 22
+    title: Learning generalizable pivoting skills
+    year: '2023'
+  JwqlSUQAAAAJ:ns9cj8rnVeAC:
+    citations: 88
+    title: Assistive robotic manipulation through shared autonomy and a body-machine interface
+    year: '2015'
+  JwqlSUQAAAAJ:olpn-zPbct0C:
+    citations: 20
+    title: 'EARL: Eye-on-hand reinforcement learner for dynamic grasping with active pose estimation'
+    year: '2023'
+  JwqlSUQAAAAJ:p2g8aNsByqUC:
+    citations: 0
+    title: 'Mathematical Models for Human-robot Systems in Assistive Robotics: Perception, Inference, and Assistance'
+    year: '2019'
+  JwqlSUQAAAAJ:qjMakFHDy7sC:
+    citations: 44
+    title: Automated perception of safe docking locations with alignment information for assistive wheelchairs
+    year: '2014'
+  JwqlSUQAAAAJ:t6usbXjVLHcC:
+    citations: 0
+    title: System and method for controlling a motion of a robot
+    year: '2025'
+  JwqlSUQAAAAJ:tOudhMTPpwUC:
+    citations: 17
+    title: Design of adaptive compliance controllers for safe robotic assembly
+    year: '2023'
+  JwqlSUQAAAAJ:tS2w5q8j5-wC:
+    citations: 0
+    title: Simulation-in-the-loop tuning of robot parameters for system modeling and control
+    year: '2024'
+  JwqlSUQAAAAJ:tkaPQYYpVKoC:
+    citations: 2
+    title: Few-shot Transparent Instance Segmentation for Bin Picking
+    year: '2024'
+  JwqlSUQAAAAJ:u-x6o8ySG0sC:
+    citations: 1
+    title: 'Photo-Chrome: Asia''s Largest Techfest Award Winning Solar Robot'
+    year: '2010'
+  JwqlSUQAAAAJ:u9iWguZQMMsC:
+    citations: 168
+    title: Probabilistic human intent recognition for shared autonomy in assistive robotics
+    year: '2019'
+  JwqlSUQAAAAJ:uWQEDVKXjbEC:
+    citations: 76
+    title: Recursive Bayesian human intent recognition in shared-control robotics
+    year: '2018'
+  JwqlSUQAAAAJ:vRqMK49ujn8C:
+    citations: 2
+    title: Synthesizing and simulating volumetric meshes from vision-based tactile imprints
+    year: '2022'
+  JwqlSUQAAAAJ:xtRiw3GOFMkC:
+    citations: 8
+    title: Robot Learning to Switch Control Modes for Assistive Teleoperation
+    year: '2016'
+  JwqlSUQAAAAJ:ye4kPcJQO24C:
+    citations: 0
+    title: Real-time human progress estimation with online dynamic time warping for collaborative robotics
+    year: '2025'
