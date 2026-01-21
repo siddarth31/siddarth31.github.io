@@ -185,6 +185,12 @@
       {{ entry.note | strip }}
     </div>
 
+    {% if entry.keywords %}
+      <div class="keywords">
+        : {{ entry.keywords }}
+      </div>
+    {% endif %}
+
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
