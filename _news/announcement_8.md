@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presenting a live demo at CES 2024 in Las Vegas, USA.
+Presenting a live demo at CES 2024, Las Vegas, USA.

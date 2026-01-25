@@ -316,6 +316,7 @@ filtered_bibtex_keywords:
     google_scholar_id,
     html,
     inspirehep_id,
+    keywords,
     pdf,
     poster,
     preview,
