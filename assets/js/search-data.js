@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "news-presenting-a-live-demo-at-ces-2024-in-las-vegas-usa",
-          title: 'Presenting a live demo at CES 2024 in Las Vegas, USA.',
+        },{id: "news-presenting-a-live-demo-at-ces-2024-las-vegas-usa",
+          title: 'Presenting a live demo at CES 2024, Las Vegas, USA.',
           description: "",
-          section: "News",},{id: "news-presenting-a-live-demo-on-autonomous-robotic-assembly-at-icra-2024-in-yokohama-japan",
-          title: 'Presenting a live demo on Autonomous Robotic Assembly at ICRA 2024 in Yokohama,...',
+          section: "News",},{id: "news-presenting-a-live-demo-on-autonomous-assembly-at-icra-2024-yokohama-japan",
+          title: 'Presenting a live demo on Autonomous Assembly at ICRA 2024, Yokohama, Japan.',
           description: "",
           section: "News",},{id: "news-presenting-5-papers-at-iros-2024",
           title: 'Presenting 5 papers at IROS 2024.',
@@ -51,8 +51,8 @@ ninja.data = [{
           section: "News",},{id: "news-we-are-hiring-a-ph-d-student-for-an-hri-internship-please-apply-here",
           title: 'We are hiring a Ph.D. student for an HRI internship. Please apply here....',
           description: "",
-          section: "News",},{id: "news-we-are-hiring-a-ph-d-student-for-robot-learning-and-perception-internship-please-apply-here",
-          title: 'We are hiring a Ph.D. student for Robot Learning and Perception internship. Please...',
+          section: "News",},{id: "news-we-are-hiring-a-ph-d-student-for-robot-learning-perception-internship-please-apply-here",
+          title: 'We are hiring a Ph.D. student for Robot Learning / Perception internship. Please...',
           description: "",
           section: "News",},{
       id: 'light-theme',
