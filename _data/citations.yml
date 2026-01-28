@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-21'
+  last_updated: '2026-01-28'
 papers:
   JwqlSUQAAAAJ:08ZZubdj9fEC:
     citations: 2
     title: Interactive tactile perception method for classification and recognition of object instances
     year: '2023'
   JwqlSUQAAAAJ:4fKUyHm3Qg0C:
-    citations: 15
+    citations: 16
     title: Generalizable human-robot collaborative assembly using imitation learning and force control
     year: '2023'
   JwqlSUQAAAAJ:5awf1xo2G04C:
@@ -22,7 +22,7 @@ papers:
     title: 'Llmphy: Complex physical reasoning using large language models and world models'
     year: '2024'
   JwqlSUQAAAAJ:AXPGKjj_ei8C:
-    citations: 3
+    citations: 4
     title: 'Autonomous robotic assembly: From part singulation to precise assembly'
     year: '2024'
   JwqlSUQAAAAJ:B3FOqHPlNUQC:
@@ -34,7 +34,7 @@ papers:
     title: Discriminative 3D Shape Modeling for Few-Shot Instance Segmentation
     year: '2023'
   JwqlSUQAAAAJ:HE397vMXCloC:
-    citations: 58
+    citations: 60
     title: Interactive planning using large language models for partially observable robotic tasks
     year: '2024'
   JwqlSUQAAAAJ:JoZmwDi-zQgC:
@@ -98,7 +98,7 @@ papers:
     title: System and Method for Interactive Robot Action Replanning Using Large Language Models
     year: '2025'
   JwqlSUQAAAAJ:_B80troHkn4C:
-    citations: 4
+    citations: 6
     title: 'Insert-One: One-Shot Robust Visual-Force Servoing for Novel Object Insertion with 6-DoF Tracking'
     year: '2024'
   JwqlSUQAAAAJ:abG-DnoFyZgC:
@@ -134,7 +134,7 @@ papers:
     title: Vision Guided Food Assembly by Robot Teaching from Target Composition
     year: '2023'
   JwqlSUQAAAAJ:l7t_Zn2s7bgC:
-    citations: 13
+    citations: 14
     title: Learning to synthesize volumetric meshes from vision-based tactile imprints
     year: '2022'
   JwqlSUQAAAAJ:mvPsJ3kp5DgC:
@@ -142,11 +142,11 @@ papers:
     title: Learning generalizable pivoting skills
     year: '2023'
   JwqlSUQAAAAJ:ns9cj8rnVeAC:
-    citations: 88
+    citations: 89
     title: Assistive robotic manipulation through shared autonomy and a body-machine interface
     year: '2015'
   JwqlSUQAAAAJ:olpn-zPbct0C:
-    citations: 20
+    citations: 21
     title: 'EARL: Eye-on-hand reinforcement learner for dynamic grasping with active pose estimation'
     year: '2023'
   JwqlSUQAAAAJ:p2g8aNsByqUC:
@@ -178,11 +178,11 @@ papers:
     title: 'Photo-Chrome: Asia''s Largest Techfest Award Winning Solar Robot'
     year: '2010'
   JwqlSUQAAAAJ:u9iWguZQMMsC:
-    citations: 168
+    citations: 171
     title: Probabilistic human intent recognition for shared autonomy in assistive robotics
     year: '2019'
   JwqlSUQAAAAJ:uWQEDVKXjbEC:
-    citations: 76
+    citations: 77
     title: Recursive Bayesian human intent recognition in shared-control robotics
     year: '2018'
   JwqlSUQAAAAJ:vRqMK49ujn8C:
