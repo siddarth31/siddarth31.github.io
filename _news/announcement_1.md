@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Submitted 3 papers to ICRA 2026.
+2 papers have been accepted for publication at ICRA 2026, Vienna, Austria. 
