@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-28'
+  last_updated: '2026-02-04'
 papers:
   JwqlSUQAAAAJ:08ZZubdj9fEC:
     citations: 2
@@ -18,7 +18,7 @@ papers:
     title: Tactile Pose Feedback for Closed-loop Manipulation Tasks
     year: '2023'
   JwqlSUQAAAAJ:9vf0nzSNQJEC:
-    citations: 25
+    citations: 26
     title: 'Llmphy: Complex physical reasoning using large language models and world models'
     year: '2024'
   JwqlSUQAAAAJ:AXPGKjj_ei8C:
@@ -34,7 +34,7 @@ papers:
     title: Discriminative 3D Shape Modeling for Few-Shot Instance Segmentation
     year: '2023'
   JwqlSUQAAAAJ:HE397vMXCloC:
-    citations: 60
+    citations: 59
     title: Interactive planning using large language models for partially observable robotic tasks
     year: '2024'
   JwqlSUQAAAAJ:JoZmwDi-zQgC:
@@ -66,7 +66,7 @@ papers:
     title: Open Human-Robot Collaboration using Decentralized Inverse Reinforcement Learning
     year: '2024'
   JwqlSUQAAAAJ:RGFaLdJalmkC:
-    citations: 7
+    citations: 8
     title: 'Automated and Objective Assessment of Surgical Training: Detection of Procedural Steps on Videotaped Performances'
     year: '2015'
   JwqlSUQAAAAJ:Tiz5es2fbqcC:
