@@ -1,16 +1,20 @@
 metadata:
-  last_updated: '2026-02-04'
+  last_updated: '2026-03-09'
 papers:
   JwqlSUQAAAAJ:08ZZubdj9fEC:
-    citations: 2
+    citations: 3
     title: Interactive tactile perception method for classification and recognition of object instances
     year: '2023'
+  JwqlSUQAAAAJ:1yQoGdGgb4wC:
+    citations: 0
+    title: System and Method for Open Multi-Agent Collaboration
+    year: '2026'
   JwqlSUQAAAAJ:4fKUyHm3Qg0C:
-    citations: 16
+    citations: 17
     title: Generalizable human-robot collaborative assembly using imitation learning and force control
     year: '2023'
   JwqlSUQAAAAJ:5awf1xo2G04C:
-    citations: 0
+    citations: 1
     title: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation
     year: '2025'
   JwqlSUQAAAAJ:5ugPr518TE4C:
@@ -18,15 +22,15 @@ papers:
     title: Tactile Pose Feedback for Closed-loop Manipulation Tasks
     year: '2023'
   JwqlSUQAAAAJ:9vf0nzSNQJEC:
-    citations: 26
+    citations: 28
     title: 'Llmphy: Complex physical reasoning using large language models and world models'
     year: '2024'
   JwqlSUQAAAAJ:AXPGKjj_ei8C:
-    citations: 4
+    citations: 6
     title: 'Autonomous robotic assembly: From part singulation to precise assembly'
     year: '2024'
   JwqlSUQAAAAJ:B3FOqHPlNUQC:
-    citations: 10
+    citations: 12
     title: Task-directed exploration in continuous pomdps for robotic manipulation of articulated objects
     year: '2022'
   JwqlSUQAAAAJ:D_sINldO8mEC:
@@ -34,7 +38,7 @@ papers:
     title: Discriminative 3D Shape Modeling for Few-Shot Instance Segmentation
     year: '2023'
   JwqlSUQAAAAJ:HE397vMXCloC:
-    citations: 59
+    citations: 66
     title: Interactive planning using large language models for partially observable robotic tasks
     year: '2024'
   JwqlSUQAAAAJ:JoZmwDi-zQgC:
@@ -62,9 +66,13 @@ papers:
     title: Human-in-the-loop optimization of shared autonomy in assistive robotics
     year: '2016'
   JwqlSUQAAAAJ:PELIpwtuRlgC:
-    citations: 6
+    citations: 9
     title: Open Human-Robot Collaboration using Decentralized Inverse Reinforcement Learning
     year: '2024'
+  JwqlSUQAAAAJ:PR6Y55bgFSsC:
+    citations: 0
+    title: 'LLMPhy: Parameter-Identifiable Physical Reasoning Combining Large Language Models and Physics Engines'
+    year: Unknown Year
   JwqlSUQAAAAJ:RGFaLdJalmkC:
     citations: 8
     title: 'Automated and Objective Assessment of Surgical Training: Detection of Procedural Steps on Videotaped Performances'
@@ -78,11 +86,11 @@ papers:
     title: Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM
     year: '2025'
   JwqlSUQAAAAJ:WbkHhVStYXYC:
-    citations: 2
+    citations: 3
     title: 'InSeGAN: A generative approach to segmenting identical instances in depth images'
     year: '2021'
   JwqlSUQAAAAJ:WqliGbK-hY8C:
-    citations: 1
+    citations: 2
     title: 'Pace: proactive assistance in human-robot collaboration through action-completion estimation'
     year: '2025'
   JwqlSUQAAAAJ:XiSMed-E-HIC:
@@ -98,7 +106,7 @@ papers:
     title: System and Method for Interactive Robot Action Replanning Using Large Language Models
     year: '2025'
   JwqlSUQAAAAJ:_B80troHkn4C:
-    citations: 6
+    citations: 7
     title: 'Insert-One: One-Shot Robust Visual-Force Servoing for Novel Object Insertion with 6-DoF Tracking'
     year: '2024'
   JwqlSUQAAAAJ:abG-DnoFyZgC:
@@ -106,7 +114,7 @@ papers:
     title: An Approach for Online User Customization of Shared Autonomy for Intelligent Assistive Devices
     year: '2016'
   JwqlSUQAAAAJ:b0M2c_1WBrUC:
-    citations: 83
+    citations: 84
     title: Grasp Detection for Assistive Robotic Manipulation
     year: '2016'
   JwqlSUQAAAAJ:bnK-pcrLprsC:
@@ -122,11 +130,11 @@ papers:
     title: Estimation of Surface Geometries in Point Clouds for the Manipulation of Novel Household Objects
     year: '2017'
   JwqlSUQAAAAJ:eMMeJKvmdy0C:
-    citations: 8
+    citations: 9
     title: 'DECAF: a Discrete-Event based Collaborative Human-Robot Framework for Furniture Assembly'
     year: '2024'
   JwqlSUQAAAAJ:eq2jaN3J8jMC:
-    citations: 7
+    citations: 8
     title: Interactive robot action replanning using multimodal llm trained from human demonstration videos
     year: '2025'
   JwqlSUQAAAAJ:kRWSkSYxWN8C:
@@ -138,15 +146,15 @@ papers:
     title: Learning to synthesize volumetric meshes from vision-based tactile imprints
     year: '2022'
   JwqlSUQAAAAJ:mvPsJ3kp5DgC:
-    citations: 22
+    citations: 23
     title: Learning generalizable pivoting skills
     year: '2023'
   JwqlSUQAAAAJ:ns9cj8rnVeAC:
-    citations: 89
+    citations: 87
     title: Assistive robotic manipulation through shared autonomy and a body-machine interface
     year: '2015'
   JwqlSUQAAAAJ:olpn-zPbct0C:
-    citations: 21
+    citations: 24
     title: 'EARL: Eye-on-hand reinforcement learner for dynamic grasping with active pose estimation'
     year: '2023'
   JwqlSUQAAAAJ:p2g8aNsByqUC:
@@ -162,7 +170,7 @@ papers:
     title: System and method for controlling a motion of a robot
     year: '2025'
   JwqlSUQAAAAJ:tOudhMTPpwUC:
-    citations: 17
+    citations: 19
     title: Design of adaptive compliance controllers for safe robotic assembly
     year: '2023'
   JwqlSUQAAAAJ:tS2w5q8j5-wC:
@@ -170,7 +178,7 @@ papers:
     title: Simulation-in-the-loop tuning of robot parameters for system modeling and control
     year: '2024'
   JwqlSUQAAAAJ:tkaPQYYpVKoC:
-    citations: 2
+    citations: 3
     title: Few-shot Transparent Instance Segmentation for Bin Picking
     year: '2024'
   JwqlSUQAAAAJ:u-x6o8ySG0sC:
@@ -178,11 +186,11 @@ papers:
     title: 'Photo-Chrome: Asia''s Largest Techfest Award Winning Solar Robot'
     year: '2010'
   JwqlSUQAAAAJ:u9iWguZQMMsC:
-    citations: 171
+    citations: 175
     title: Probabilistic human intent recognition for shared autonomy in assistive robotics
     year: '2019'
   JwqlSUQAAAAJ:uWQEDVKXjbEC:
-    citations: 77
+    citations: 76
     title: Recursive Bayesian human intent recognition in shared-control robotics
     year: '2018'
   JwqlSUQAAAAJ:vRqMK49ujn8C:
