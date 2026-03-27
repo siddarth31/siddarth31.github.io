@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-03-27'
 papers:
   JwqlSUQAAAAJ:08ZZubdj9fEC:
     citations: 3
@@ -22,7 +22,7 @@ papers:
     title: Tactile Pose Feedback for Closed-loop Manipulation Tasks
     year: '2023'
   JwqlSUQAAAAJ:9vf0nzSNQJEC:
-    citations: 29
+    citations: 30
     title: 'Llmphy: Complex physical reasoning using large language models and world models'
     year: '2024'
   JwqlSUQAAAAJ:AXPGKjj_ei8C:
@@ -62,11 +62,11 @@ papers:
     title: System and method for robot planning using large language models
     year: '2025'
   JwqlSUQAAAAJ:P5F9QuxV20EC:
-    citations: 238
+    citations: 240
     title: Human-in-the-loop optimization of shared autonomy in assistive robotics
     year: '2016'
   JwqlSUQAAAAJ:PELIpwtuRlgC:
-    citations: 9
+    citations: 10
     title: Open Human-Robot Collaboration using Decentralized Inverse Reinforcement Learning
     year: '2024'
   JwqlSUQAAAAJ:PR6Y55bgFSsC:
@@ -98,7 +98,7 @@ papers:
     title: Interactive Tactile Perception for Classification of Novel Object Instances
     year: '2020'
   JwqlSUQAAAAJ:Y5dfb0dijaUC:
-    citations: 4
+    citations: 5
     title: Method and System for Generating a Sequence of Actions for Controlling a Robot
     year: '2024'
   JwqlSUQAAAAJ:ZuybSZzF8UAC:
@@ -146,11 +146,11 @@ papers:
     title: Learning to synthesize volumetric meshes from vision-based tactile imprints
     year: '2022'
   JwqlSUQAAAAJ:mvPsJ3kp5DgC:
-    citations: 23
+    citations: 24
     title: Learning generalizable pivoting skills
     year: '2023'
   JwqlSUQAAAAJ:ns9cj8rnVeAC:
-    citations: 88
+    citations: 89
     title: Assistive robotic manipulation through shared autonomy and a body-machine interface
     year: '2015'
   JwqlSUQAAAAJ:olpn-zPbct0C:
@@ -186,7 +186,7 @@ papers:
     title: 'Photo-Chrome: Asia''s Largest Techfest Award Winning Solar Robot'
     year: '2010'
   JwqlSUQAAAAJ:u9iWguZQMMsC:
-    citations: 178
+    citations: 179
     title: Probabilistic human intent recognition for shared autonomy in assistive robotics
     year: '2019'
   JwqlSUQAAAAJ:uWQEDVKXjbEC:
