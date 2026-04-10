@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-04-10'
 papers:
   JwqlSUQAAAAJ:08ZZubdj9fEC:
     citations: 3
@@ -22,7 +22,7 @@ papers:
     title: Tactile Pose Feedback for Closed-loop Manipulation Tasks
     year: '2023'
   JwqlSUQAAAAJ:9vf0nzSNQJEC:
-    citations: 30
+    citations: 32
     title: 'Llmphy: Complex physical reasoning using large language models and world models'
     year: '2024'
   JwqlSUQAAAAJ:AXPGKjj_ei8C:
@@ -62,7 +62,7 @@ papers:
     title: System and method for robot planning using large language models
     year: '2025'
   JwqlSUQAAAAJ:P5F9QuxV20EC:
-    citations: 240
+    citations: 243
     title: Human-in-the-loop optimization of shared autonomy in assistive robotics
     year: '2016'
   JwqlSUQAAAAJ:PELIpwtuRlgC:
@@ -90,7 +90,7 @@ papers:
     title: 'InSeGAN: A generative approach to segmenting identical instances in depth images'
     year: '2021'
   JwqlSUQAAAAJ:WqliGbK-hY8C:
-    citations: 2
+    citations: 3
     title: 'Pace: proactive assistance in human-robot collaboration through action-completion estimation'
     year: '2025'
   JwqlSUQAAAAJ:XiSMed-E-HIC:
@@ -130,11 +130,11 @@ papers:
     title: Estimation of Surface Geometries in Point Clouds for the Manipulation of Novel Household Objects
     year: '2017'
   JwqlSUQAAAAJ:eMMeJKvmdy0C:
-    citations: 9
+    citations: 10
     title: 'DECAF: a Discrete-Event based Collaborative Human-Robot Framework for Furniture Assembly'
     year: '2024'
   JwqlSUQAAAAJ:eq2jaN3J8jMC:
-    citations: 8
+    citations: 9
     title: Interactive robot action replanning using multimodal llm trained from human demonstration videos
     year: '2025'
   JwqlSUQAAAAJ:kRWSkSYxWN8C:
@@ -150,11 +150,11 @@ papers:
     title: Learning generalizable pivoting skills
     year: '2023'
   JwqlSUQAAAAJ:ns9cj8rnVeAC:
-    citations: 89
+    citations: 90
     title: Assistive robotic manipulation through shared autonomy and a body-machine interface
     year: '2015'
   JwqlSUQAAAAJ:olpn-zPbct0C:
-    citations: 24
+    citations: 26
     title: 'EARL: Eye-on-hand reinforcement learner for dynamic grasping with active pose estimation'
     year: '2023'
   JwqlSUQAAAAJ:p2g8aNsByqUC:
@@ -190,7 +190,7 @@ papers:
     title: Probabilistic human intent recognition for shared autonomy in assistive robotics
     year: '2019'
   JwqlSUQAAAAJ:uWQEDVKXjbEC:
-    citations: 76
+    citations: 78
     title: Recursive Bayesian human intent recognition in shared-control robotics
     year: '2018'
   JwqlSUQAAAAJ:vRqMK49ujn8C:
