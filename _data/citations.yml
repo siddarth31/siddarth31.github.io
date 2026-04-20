@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-04-20'
 papers:
   JwqlSUQAAAAJ:08ZZubdj9fEC:
     citations: 3
@@ -14,15 +14,15 @@ papers:
     title: Generalizable human-robot collaborative assembly using imitation learning and force control
     year: '2023'
   JwqlSUQAAAAJ:5awf1xo2G04C:
-    citations: 1
-    title: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation
-    year: '2025'
+    citations: 0
+    title: Eye-on-hand reinforcement learner for dynamic grasping with active pose estimation
+    year: '2026'
   JwqlSUQAAAAJ:5ugPr518TE4C:
     citations: 1
     title: Tactile Pose Feedback for Closed-loop Manipulation Tasks
     year: '2023'
   JwqlSUQAAAAJ:9vf0nzSNQJEC:
-    citations: 32
+    citations: 34
     title: 'Llmphy: Complex physical reasoning using large language models and world models'
     year: '2024'
   JwqlSUQAAAAJ:AXPGKjj_ei8C:
@@ -98,7 +98,7 @@ papers:
     title: Interactive Tactile Perception for Classification of Novel Object Instances
     year: '2020'
   JwqlSUQAAAAJ:Y5dfb0dijaUC:
-    citations: 5
+    citations: 6
     title: Method and System for Generating a Sequence of Actions for Controlling a Robot
     year: '2024'
   JwqlSUQAAAAJ:ZuybSZzF8UAC:
@@ -121,6 +121,10 @@ papers:
     citations: 0
     title: Learning Generalizable Pivoting Skills with Object Feature Based State/Action Projections
     year: Unknown Year
+  JwqlSUQAAAAJ:dQ2og3OwTAUC:
+    citations: 0
+    title: System and Method for Object Segmentation for Task Performance
+    year: '2026'
   JwqlSUQAAAAJ:dTyEYWd-f8wC:
     citations: 0
     title: 'Open Human-Robot Collaboration Systems (OHRCS): A Research Perspective'
@@ -137,6 +141,10 @@ papers:
     citations: 9
     title: Interactive robot action replanning using multimodal llm trained from human demonstration videos
     year: '2025'
+  JwqlSUQAAAAJ:hkOj_22Ku90C:
+    citations: 0
+    title: One-Shot Robust Visual-Force Robotic Servoing for Novel Object Insertion with 6-DoF Tracking
+    year: '2026'
   JwqlSUQAAAAJ:kRWSkSYxWN8C:
     citations: 1
     title: Vision Guided Food Assembly by Robot Teaching from Target Composition
@@ -186,11 +194,11 @@ papers:
     title: 'Photo-Chrome: Asia''s Largest Techfest Award Winning Solar Robot'
     year: '2010'
   JwqlSUQAAAAJ:u9iWguZQMMsC:
-    citations: 179
+    citations: 181
     title: Probabilistic human intent recognition for shared autonomy in assistive robotics
     year: '2019'
   JwqlSUQAAAAJ:uWQEDVKXjbEC:
-    citations: 78
+    citations: 82
     title: Recursive Bayesian human intent recognition in shared-control robotics
     year: '2018'
   JwqlSUQAAAAJ:vRqMK49ujn8C:
