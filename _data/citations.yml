@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-27'
 papers:
   JwqlSUQAAAAJ:08ZZubdj9fEC:
     citations: 3
@@ -15,8 +15,8 @@ papers:
     year: '2023'
   JwqlSUQAAAAJ:5awf1xo2G04C:
     citations: 0
-    title: Eye-on-hand reinforcement learner for dynamic grasping with active pose estimation
-    year: '2026'
+    title: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation
+    year: '2025'
   JwqlSUQAAAAJ:5ugPr518TE4C:
     citations: 1
     title: Tactile Pose Feedback for Closed-loop Manipulation Tasks
@@ -38,7 +38,7 @@ papers:
     title: Discriminative 3D Shape Modeling for Few-Shot Instance Segmentation
     year: '2023'
   JwqlSUQAAAAJ:HE397vMXCloC:
-    citations: 66
+    citations: 69
     title: Interactive planning using large language models for partially observable robotic tasks
     year: '2024'
   JwqlSUQAAAAJ:JoZmwDi-zQgC:
@@ -62,7 +62,7 @@ papers:
     title: System and method for robot planning using large language models
     year: '2025'
   JwqlSUQAAAAJ:P5F9QuxV20EC:
-    citations: 243
+    citations: 244
     title: Human-in-the-loop optimization of shared autonomy in assistive robotics
     year: '2016'
   JwqlSUQAAAAJ:PELIpwtuRlgC:
@@ -98,7 +98,7 @@ papers:
     title: Interactive Tactile Perception for Classification of Novel Object Instances
     year: '2020'
   JwqlSUQAAAAJ:Y5dfb0dijaUC:
-    citations: 6
+    citations: 3
     title: Method and System for Generating a Sequence of Actions for Controlling a Robot
     year: '2024'
   JwqlSUQAAAAJ:ZuybSZzF8UAC:
@@ -170,7 +170,7 @@ papers:
     title: 'Mathematical Models for Human-robot Systems in Assistive Robotics: Perception, Inference, and Assistance'
     year: '2019'
   JwqlSUQAAAAJ:qjMakFHDy7sC:
-    citations: 44
+    citations: 45
     title: Automated perception of safe docking locations with alignment information for assistive wheelchairs
     year: '2014'
   JwqlSUQAAAAJ:t6usbXjVLHcC:
@@ -194,7 +194,7 @@ papers:
     title: 'Photo-Chrome: Asia''s Largest Techfest Award Winning Solar Robot'
     year: '2010'
   JwqlSUQAAAAJ:u9iWguZQMMsC:
-    citations: 181
+    citations: 184
     title: Probabilistic human intent recognition for shared autonomy in assistive robotics
     year: '2019'
   JwqlSUQAAAAJ:uWQEDVKXjbEC:
