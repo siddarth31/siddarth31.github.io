@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-06'
 papers:
   JwqlSUQAAAAJ:08ZZubdj9fEC:
     citations: 3
@@ -15,14 +15,14 @@ papers:
     year: '2023'
   JwqlSUQAAAAJ:5awf1xo2G04C:
     citations: 0
-    title: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation
-    year: '2025'
+    title: Eye-on-hand reinforcement learner for dynamic grasping with active pose estimation
+    year: '2026'
   JwqlSUQAAAAJ:5ugPr518TE4C:
     citations: 1
     title: Tactile Pose Feedback for Closed-loop Manipulation Tasks
     year: '2023'
   JwqlSUQAAAAJ:9vf0nzSNQJEC:
-    citations: 34
+    citations: 35
     title: 'Llmphy: Complex physical reasoning using large language models and world models'
     year: '2024'
   JwqlSUQAAAAJ:AXPGKjj_ei8C:
@@ -62,7 +62,7 @@ papers:
     title: System and method for robot planning using large language models
     year: '2025'
   JwqlSUQAAAAJ:P5F9QuxV20EC:
-    citations: 244
+    citations: 246
     title: Human-in-the-loop optimization of shared autonomy in assistive robotics
     year: '2016'
   JwqlSUQAAAAJ:PELIpwtuRlgC:
@@ -82,7 +82,7 @@ papers:
     title: Visual 3D Perception for Interactive Robotic Tactile Data Acquisition
     year: '2021'
   JwqlSUQAAAAJ:VL0QpB8kHFEC:
-    citations: 0
+    citations: 1
     title: Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM
     year: '2025'
   JwqlSUQAAAAJ:WbkHhVStYXYC:
@@ -98,7 +98,7 @@ papers:
     title: Interactive Tactile Perception for Classification of Novel Object Instances
     year: '2020'
   JwqlSUQAAAAJ:Y5dfb0dijaUC:
-    citations: 3
+    citations: 6
     title: Method and System for Generating a Sequence of Actions for Controlling a Robot
     year: '2024'
   JwqlSUQAAAAJ:ZuybSZzF8UAC:
@@ -106,7 +106,7 @@ papers:
     title: System and Method for Interactive Robot Action Replanning Using Large Language Models
     year: '2025'
   JwqlSUQAAAAJ:_B80troHkn4C:
-    citations: 7
+    citations: 8
     title: 'Insert-One: One-Shot Robust Visual-Force Servoing for Novel Object Insertion with 6-DoF Tracking'
     year: '2024'
   JwqlSUQAAAAJ:abG-DnoFyZgC:
@@ -134,11 +134,11 @@ papers:
     title: Estimation of Surface Geometries in Point Clouds for the Manipulation of Novel Household Objects
     year: '2017'
   JwqlSUQAAAAJ:eMMeJKvmdy0C:
-    citations: 10
+    citations: 11
     title: 'DECAF: a Discrete-Event based Collaborative Human-Robot Framework for Furniture Assembly'
     year: '2024'
   JwqlSUQAAAAJ:eq2jaN3J8jMC:
-    citations: 9
+    citations: 10
     title: Interactive robot action replanning using multimodal llm trained from human demonstration videos
     year: '2025'
   JwqlSUQAAAAJ:hkOj_22Ku90C:
@@ -158,7 +158,7 @@ papers:
     title: Learning generalizable pivoting skills
     year: '2023'
   JwqlSUQAAAAJ:ns9cj8rnVeAC:
-    citations: 90
+    citations: 91
     title: Assistive robotic manipulation through shared autonomy and a body-machine interface
     year: '2015'
   JwqlSUQAAAAJ:olpn-zPbct0C:
@@ -198,7 +198,7 @@ papers:
     title: Probabilistic human intent recognition for shared autonomy in assistive robotics
     year: '2019'
   JwqlSUQAAAAJ:uWQEDVKXjbEC:
-    citations: 82
+    citations: 83
     title: Recursive Bayesian human intent recognition in shared-control robotics
     year: '2018'
   JwqlSUQAAAAJ:vRqMK49ujn8C:
