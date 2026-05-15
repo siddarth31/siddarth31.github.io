@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-15'
 papers:
   JwqlSUQAAAAJ:08ZZubdj9fEC:
     citations: 3
@@ -22,7 +22,7 @@ papers:
     title: Tactile Pose Feedback for Closed-loop Manipulation Tasks
     year: '2023'
   JwqlSUQAAAAJ:9vf0nzSNQJEC:
-    citations: 35
+    citations: 36
     title: 'Llmphy: Complex physical reasoning using large language models and world models'
     year: '2024'
   JwqlSUQAAAAJ:AXPGKjj_ei8C:
@@ -62,7 +62,7 @@ papers:
     title: System and method for robot planning using large language models
     year: '2025'
   JwqlSUQAAAAJ:P5F9QuxV20EC:
-    citations: 246
+    citations: 248
     title: Human-in-the-loop optimization of shared autonomy in assistive robotics
     year: '2016'
   JwqlSUQAAAAJ:PELIpwtuRlgC:
@@ -106,7 +106,7 @@ papers:
     title: System and Method for Interactive Robot Action Replanning Using Large Language Models
     year: '2025'
   JwqlSUQAAAAJ:_B80troHkn4C:
-    citations: 8
+    citations: 9
     title: 'Insert-One: One-Shot Robust Visual-Force Servoing for Novel Object Insertion with 6-DoF Tracking'
     year: '2024'
   JwqlSUQAAAAJ:abG-DnoFyZgC:
@@ -150,7 +150,7 @@ papers:
     title: Vision Guided Food Assembly by Robot Teaching from Target Composition
     year: '2023'
   JwqlSUQAAAAJ:l7t_Zn2s7bgC:
-    citations: 14
+    citations: 15
     title: Learning to synthesize volumetric meshes from vision-based tactile imprints
     year: '2022'
   JwqlSUQAAAAJ:mvPsJ3kp5DgC:
@@ -158,7 +158,7 @@ papers:
     title: Learning generalizable pivoting skills
     year: '2023'
   JwqlSUQAAAAJ:ns9cj8rnVeAC:
-    citations: 91
+    citations: 92
     title: Assistive robotic manipulation through shared autonomy and a body-machine interface
     year: '2015'
   JwqlSUQAAAAJ:olpn-zPbct0C:
@@ -194,11 +194,11 @@ papers:
     title: 'Photo-Chrome: Asia''s Largest Techfest Award Winning Solar Robot'
     year: '2010'
   JwqlSUQAAAAJ:u9iWguZQMMsC:
-    citations: 184
+    citations: 187
     title: Probabilistic human intent recognition for shared autonomy in assistive robotics
     year: '2019'
   JwqlSUQAAAAJ:uWQEDVKXjbEC:
-    citations: 83
+    citations: 85
     title: Recursive Bayesian human intent recognition in shared-control robotics
     year: '2018'
   JwqlSUQAAAAJ:vRqMK49ujn8C:
