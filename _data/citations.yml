@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-18'
 papers:
   JwqlSUQAAAAJ:08ZZubdj9fEC:
-    citations: 3
+    citations: 4
     title: Interactive tactile perception method for classification and recognition of object instances
     year: '2023'
   JwqlSUQAAAAJ:1yQoGdGgb4wC:
@@ -62,7 +62,7 @@ papers:
     title: System and method for robot planning using large language models
     year: '2025'
   JwqlSUQAAAAJ:P5F9QuxV20EC:
-    citations: 248
+    citations: 249
     title: Human-in-the-loop optimization of shared autonomy in assistive robotics
     year: '2016'
   JwqlSUQAAAAJ:PELIpwtuRlgC:
@@ -99,8 +99,8 @@ papers:
     year: '2020'
   JwqlSUQAAAAJ:Y5dfb0dijaUC:
     citations: 6
-    title: Method and System for Generating a Sequence of Actions for Controlling a Robot
-    year: '2024'
+    title: Method and system for generating a sequence of actions for controlling a robot
+    year: '2026'
   JwqlSUQAAAAJ:ZuybSZzF8UAC:
     citations: 0
     title: System and Method for Interactive Robot Action Replanning Using Large Language Models
@@ -114,7 +114,7 @@ papers:
     title: An Approach for Online User Customization of Shared Autonomy for Intelligent Assistive Devices
     year: '2016'
   JwqlSUQAAAAJ:b0M2c_1WBrUC:
-    citations: 84
+    citations: 85
     title: Grasp Detection for Assistive Robotic Manipulation
     year: '2016'
   JwqlSUQAAAAJ:bnK-pcrLprsC:
@@ -158,7 +158,7 @@ papers:
     title: Learning generalizable pivoting skills
     year: '2023'
   JwqlSUQAAAAJ:ns9cj8rnVeAC:
-    citations: 92
+    citations: 93
     title: Assistive robotic manipulation through shared autonomy and a body-machine interface
     year: '2015'
   JwqlSUQAAAAJ:olpn-zPbct0C:
@@ -194,11 +194,11 @@ papers:
     title: 'Photo-Chrome: Asia''s Largest Techfest Award Winning Solar Robot'
     year: '2010'
   JwqlSUQAAAAJ:u9iWguZQMMsC:
-    citations: 187
+    citations: 186
     title: Probabilistic human intent recognition for shared autonomy in assistive robotics
     year: '2019'
   JwqlSUQAAAAJ:uWQEDVKXjbEC:
-    citations: 85
+    citations: 86
     title: Recursive Bayesian human intent recognition in shared-control robotics
     year: '2018'
   JwqlSUQAAAAJ:vRqMK49ujn8C:
