@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-05-20'
 papers:
   JwqlSUQAAAAJ:08ZZubdj9fEC:
     citations: 4
@@ -38,7 +38,7 @@ papers:
     title: Discriminative 3D Shape Modeling for Few-Shot Instance Segmentation
     year: '2023'
   JwqlSUQAAAAJ:HE397vMXCloC:
-    citations: 69
+    citations: 70
     title: Interactive planning using large language models for partially observable robotic tasks
     year: '2024'
   JwqlSUQAAAAJ:JoZmwDi-zQgC:
@@ -194,7 +194,7 @@ papers:
     title: 'Photo-Chrome: Asia''s Largest Techfest Award Winning Solar Robot'
     year: '2010'
   JwqlSUQAAAAJ:u9iWguZQMMsC:
-    citations: 186
+    citations: 187
     title: Probabilistic human intent recognition for shared autonomy in assistive robotics
     year: '2019'
   JwqlSUQAAAAJ:uWQEDVKXjbEC:
