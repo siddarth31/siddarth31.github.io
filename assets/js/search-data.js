@@ -41,8 +41,8 @@ ninja.data = [{
           section: "News",},{id: "news-we-are-hiring-a-ph-d-student-for-robot-learning-perception-internship-please-apply-here",
           title: 'We are hiring a Ph.D. student for Robot Learning / Perception internship. Please...',
           description: "",
-          section: "News",},{id: "news-2-papers-have-been-accepted-for-publication-at-icra-2026-vienna-austria",
-          title: '2 papers have been accepted for publication at ICRA 2026, Vienna, Austria.',
+          section: "News",},{id: "news-presenting-2-papers-at-icra-2026-vienna-austria",
+          title: 'Presenting 2 papers at ICRA 2026, Vienna, Austria.',
           description: "",
           section: "News",},{
       id: 'light-theme',
