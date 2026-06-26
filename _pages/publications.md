@@ -2,9 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Research contributions published in leading conferences and journals in robotics, artificial intelligence, machine learning, and computer vision. 
-
-Publications are listed in reverse chronological order. 
+description: Research contributions published in leading conferences and journals in robotics, artificial intelligence, machine learning, and computer vision. Publications are listed in reverse chronological order. 
 nav: true
 nav_order: 1
 ---
