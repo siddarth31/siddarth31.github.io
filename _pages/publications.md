@@ -2,7 +2,9 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications in reversed chronological order. 
+description: My research contributions have been published in leading conferences and journals in robotics, artificial intelligence, machine learning, and computer vision. 
+
+Publications are listed in reversed chronological order. 
 nav: true
 nav_order: 1
 ---
