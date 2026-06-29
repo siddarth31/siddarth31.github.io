@@ -13,8 +13,6 @@ nav_order: 1
 
 {% include bib_search.liquid %}
 
-<!-- {% include figure.liquid path="assets/img/publication_preview/pubteaser.png" title="Publications Overview" class="img-fluid rounded z-depth-1" %} -->
-
 <div class="publications">
 
 {% bibliography %}
