@@ -2,7 +2,7 @@
 layout: page
 title: astrophotography
 permalink: /projects/
-description: Discover the beauty of the universe through my astrophotography. This gallery features original images of galaxies, nebulae, and star clusters---each captured, processed, and shared from my own observations of the night sky.
+description: Discover the beauty of the universe through my astrophotography. This gallery showcases original images of galaxies, nebulae, star clusters, and other celestial objects, each captured during my imaging sessions. Every image reflects the beauty and complexity of the universe revealed through long-exposure astrophotography.
 nav: true
 nav_order: 2
 display_categories: [nebulae, galaxies, star clusters]
