@@ -18,10 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-astrophotography",
           title: "astrophotography",
-          description: "Discover the beauty of the universe through my astrophotography. This gallery features original images of galaxies, nebulae, and star clusters---each captured, processed, and shared from my own imaging sessions of the night sky.",
+          description: "In my spare time, I pursue amateur astrophotography, blending science and artistry with a particular interest in deep-sky imaging. Discover the beauty of the universe through images of the night sky. This gallery features original photographs of galaxies, nebulae, and star clusters—each captured, processed, and shared from my own imaging sessions.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/astrophotography/";
           },
         },{id: "nav-blog",
           title: "blog",
