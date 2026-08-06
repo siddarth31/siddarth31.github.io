@@ -55,7 +55,7 @@ ninja.data = [{
           title: 'NGC 6992',
           description: "Eastern Veil Nebula",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
+              window.location.href = "/projects/NGC6992.html";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
