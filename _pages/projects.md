@@ -9,6 +9,8 @@ display_categories: [nebulae, star clusters, galaxies]
 horizontal: false
 ---
 
+<h3><strong>In my spare time, I pursue amateur astrophotography, blending science and artistry with a particular interest in deep-sky imaging. This gallery features original photographs of nebulae, star clusters, and galaxies---each captured, processed, and shared from my own imaging sessions.</strong></h3> 
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
