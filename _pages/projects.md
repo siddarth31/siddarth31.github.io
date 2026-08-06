@@ -2,7 +2,7 @@
 layout: page
 title: astrophotography
 permalink: /projects/
-description: 
+description: astrophotography gallery
 nav: true
 nav_order: 2
 display_categories: [nebulae, star clusters, galaxies]
