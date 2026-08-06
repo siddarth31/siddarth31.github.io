@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-astrophotography",
           title: "astrophotography",
-          description: "In my spare time, I pursue amateur astrophotography, blending science and artistry with a particular interest in deep-sky imaging. This gallery features original photographs of galaxies, nebulae, and star clusters---each captured, processed, and shared from my own imaging sessions.",
+          description: "In my spare time, I pursue amateur astrophotography, blending science and artistry with a particular interest in deep-sky imaging. This gallery features original photographs of nebulae, star clusters, and galaxies---each captured, processed, and shared from my own imaging sessions.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
