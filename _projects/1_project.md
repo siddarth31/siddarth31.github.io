@@ -21,7 +21,7 @@ The Eastern Veil Nebula (NGC 6992), August 2026. The sweeping arcs resemble deli
 
 A Star's Final Act
 
-NGC 6992, the Eastern Veil Nebula is the brightest and most intricate portion of the larger Veil Nebula, an immense supernova remnant in the constellation Cygnus, located approximately 2,500 light-years from Earth. The Veil Nebula was created when a massive star ended its life in a cataclysmic supernova roughly 5,000 to 10,000 years ago. The explosion sent powerful shockwaves racing through the surrounding interstellar gas, heating and ionizing it until it began to glow. The vivid colors captured in astrophotography are produced by different elements energized by the expanding shockwave. From the violent death of a massive star comes a breathtaking tapestry of light, illustrating how destruction and creation are inseparably linked in the ongoing story of stellar evolution.
+NGC 6992, the Eastern Veil Nebula is the brightest and most intricate portion of the larger Veil Nebula, an immense supernova remnant in the constellation Cygnus, located approximately 2,500 light-years from Earth. The Veil Nebula was created when a massive star ended its life in a cataclysmic supernova roughly 5,000 to 10,000 years ago. The explosion sent powerful shockwaves racing through the surrounding interstellar gas, heating and ionizing it until it began to glow. The vivid colors captured in astrophotography arise from different elements that are excited and ionized by the expanding shockwave. From the violent death of a massive star comes a breathtaking tapestry of light, illustrating how destruction and creation are inseparably linked in the ongoing story of stellar evolution.
 
 
 
