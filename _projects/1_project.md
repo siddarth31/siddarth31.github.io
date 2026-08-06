@@ -4,7 +4,7 @@ title: NGC 6992
 description: Eastern Veil Nebula
 img: assets/img/astro/NGC6992_poster.jpg
 importance: 1
-category: nebula
+category: nebulae
 related_publications: false
 ---
 
