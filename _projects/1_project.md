@@ -14,15 +14,10 @@ related_publications: false
     </div>
 </div>
 
-</div>
 <div class="caption">
-The Eastern Veil Nebula (NGC 6992), August 2026. The vivid red emission in this image traces ionized hydrogen gas, while the cyan and blue tones reveal the presence of doubly ionized oxygen. Copyright: S. Jain.
+The Eastern Veil Nebula (NGC 6992), captured in August 2026. The vivid red emission in this image traces ionized hydrogen gas, while the cyan and blue tones reveal the presence of doubly ionized oxygen. Image copyright: S. Jain.
 </div>
 
-A Star's Final Act
+<h3><strong>A Star's Final Act</strong></h3> 
 
-NGC 6992, the Eastern Veil Nebula is the brightest and most intricate portion of the larger Veil Nebula, an immense supernova remnant in the constellation Cygnus, located approximately 2,500 light-years from Earth. The Veil Nebula was created when a massive star ended its life in a cataclysmic supernova roughly 5,000 to 10,000 years ago. The explosion sent powerful shockwaves racing through the surrounding interstellar gas, heating and ionizing it until it began to glow. The vivid colors captured in astrophotography arise from different elements that are excited and ionized by the expanding shockwave. From the violent death of a massive star comes a breathtaking tapestry of light, illustrating how destruction and creation are inseparably linked in the ongoing story of stellar evolution.
-
-
-
-
+<p> NGC 6992, the Eastern Veil Nebula, is the brightest and most intricate section of the larger Veil Nebula, a vast supernova remnant located in the constellation Cygnus, approximately 2,500 light-years from Earth. </p> <p> The Veil Nebula formed when a massive star reached the end of its life in a catastrophic supernova explosion between 5,000 and 10,000 years ago. The immense energy released sent shockwaves racing through the surrounding interstellar medium, heating and ionizing the gas and causing it to glow. </p> <p> The striking colors revealed in astrophotography arise from different elements energized by the expanding shockwave. The red hues are produced primarily by glowing hydrogen, while the blue and cyan tones originate from oxygen emissions. From the violent death of a massive star emerges a breathtaking tapestry of light, demonstrating the profound connection between destruction and creation in the continuing cycle of stellar evolution. </p>
