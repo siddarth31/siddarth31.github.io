@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: astrophotography
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 4
-display_categories: [work, fun]
+description: Discover the beauty of the universe through my astrophotography. This gallery features original images of galaxies, nebulae, and star clusters---each captured, processed, and shared from my own observations of the night sky.
+nav: true
+nav_order: 2
+display_categories: [nebulae, galaxies, star clusters]
 horizontal: false
 ---
 
