@@ -1,8 +1,8 @@
 ---
 layout: page
 title: astrophotography
-permalink: /astrophotography/
-description: In my spare time, I pursue amateur astrophotography, blending science and artistry with a particular interest in deep-sky imaging. Discover the beauty of the universe through images of the night sky. This gallery features original photographs of galaxies, nebulae, and star clusters---each captured, processed, and shared from my own imaging sessions.
+permalink: /projects/
+description: In my spare time, I pursue amateur astrophotography, blending science and artistry with a particular interest in deep-sky imaging. This gallery features original photographs of galaxies, nebulae, and star clusters---each captured, processed, and shared from my own imaging sessions.
 nav: true
 nav_order: 2
 display_categories: [nebulae, galaxies, star clusters]
