@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-astrophotography",
+          title: "astrophotography",
+          description: "Discover the beauty of the universe through my astrophotography. This gallery features original images of galaxies, nebulae, and star clusters---each captured, processed, and shared from my own observations of the night sky.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-blog",
           title: "blog",
           description: "",
