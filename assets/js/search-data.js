@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
         },{id: "news-presenting-a-live-demo-at-ces-2024-las-vegas-usa",
           title: 'Presenting a live demo at CES 2024, Las Vegas, USA.',
           description: "",
