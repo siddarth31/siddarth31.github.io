@@ -44,7 +44,12 @@ ninja.data = [{
           section: "News",},{id: "news-presenting-2-papers-at-icra-2026-vienna-austria",
           title: 'Presenting 2 papers at ICRA 2026, Vienna, Austria.',
           description: "",
-          section: "News",},{id: "projects-ngc-6992",
+          section: "News",},{id: "projects-ic-5070",
+          title: 'IC 5070',
+          description: "Pelican Nebula",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/IC5070.html";
+            },},{id: "projects-ngc-6992",
           title: 'NGC 6992',
           description: "Eastern Veil Nebula",
           section: "Projects",handler: () => {
