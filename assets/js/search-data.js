@@ -44,7 +44,12 @@ ninja.data = [{
           section: "News",},{id: "news-presenting-2-papers-at-icra-2026-vienna-austria",
           title: 'Presenting 2 papers at ICRA 2026, Vienna, Austria.',
           description: "",
-          section: "News",},{id: "projects-ic-5070",
+          section: "News",},{id: "projects-ic-1318",
+          title: 'IC 1318',
+          description: "Butterfly Nebula",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/IC1318.html";
+            },},{id: "projects-ic-5070",
           title: 'IC 5070',
           description: "Pelican Nebula",
           section: "Projects",handler: () => {
