@@ -199,14 +199,39 @@ ul.task-list input[type="checkbox"] {
   width: 100%;
 
   .more-info {
-    margin-bottom: 2px;
-    margin-top: 2px;
-    font-family: monospace;
+    margin-top: 0.75rem;
+    text-align: center;
+    font-family: inherit;
 
     p {
-      display: inline-block;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
       margin: 0;
+      font-size: 0.85rem;
+      font-weight: 300;
+      color: var(--global-text-color-light);
+      transition: color 0.2s ease;
     }
+  }
+}
+
+// Bio Contact Line
+.bio-email-line {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  font-weight: 300;
+  color: var(--global-text-color-light);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed var(--global-divider-color);
+
+  i {
+    color: var(--global-theme-color);
+    font-size: 0.85rem;
   }
 }
 
