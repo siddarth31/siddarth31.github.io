@@ -800,7 +800,7 @@ footer.sticky-bottom {
   }
 }
 
-// Publications
+// Publications (Flat Minimal Editorial Style)
 
 .publications {
   margin-top: 2rem;
@@ -822,20 +822,39 @@ footer.sticky-bottom {
   }
 
   h2.bibliography {
-    color: var(--global-divider-color);
+    color: var(--global-text-color-light);
     border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
+    padding-top: 0.2rem;
+    margin-top: 0.75rem;
+    margin-bottom: 0.25rem;
     text-align: right;
+    font-size: 1.25rem;
+
+    &:first-of-type {
+      border-top: none;
+      margin-top: 0;
+      padding-top: 0;
+    }
   }
 
   ol.bibliography {
     list-style: none;
     padding: 0;
     margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.0rem;
 
     li {
-      margin-bottom: 1rem;
+      margin-bottom: 0;
+      padding: 0 0 0.2rem 0;
+      border-bottom: 1px solid var(--global-divider-color);
+      transition: all 0.25s ease;
+
+      &:last-child {
+        border-bottom: none;
+        padding-bottom: 0;
+      }
 
       .preview {
         width: 100%;
@@ -848,12 +867,18 @@ footer.sticky-bottom {
 
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
+          background: rgba(var(--global-theme-color-rgb, 100, 100, 250), 0.08) !important;
+          color: var(--global-theme-color) !important;
+          font-weight: 500;
+          font-size: 0.82rem;
+          padding: 0.25rem 0.65rem;
+          border-radius: 4px !important;
           margin-bottom: 0.5rem;
-          color: var(--global-card-bg-color) !important;
+          border: 1px solid rgba(var(--global-theme-color-rgb, 100, 100, 250), 0.2);
+          letter-spacing: 0.02em;
 
           a {
-            color: white;
+            color: var(--global-theme-color) !important;
 
             &:hover {
               text-decoration: none;
@@ -868,22 +893,41 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: bolder;
+        font-weight: 400 !important;
+        font-size: 1rem;
+        color: var(--global-text-color);
+        line-height: 1.45;
+        margin-bottom: 0.35rem;
       }
 
       .author {
+        font-size: 0.9rem;
+        font-weight: 400 !important;
+        margin-bottom: 0.35rem;
+        color: var(--global-text-color);
+        opacity: 0.88;
+
+        * {
+          font-weight: 400 !important;
+        }
+
         a {
+          color: var(--global-text-color);
+          font-weight: 400 !important;
           border-bottom: 1px dashed var(--global-theme-color);
 
           &:hover {
             border-bottom-style: solid;
             text-decoration: none;
+            color: var(--global-theme-color);
           }
         }
 
         > em {
-          border-bottom: 1px solid;
+          border-bottom: 1px solid var(--global-text-color-light);
           font-style: normal;
+          font-weight: 400 !important;
+          color: var(--global-text-color);
         }
 
         > span.more-authors {
@@ -898,35 +942,55 @@ footer.sticky-bottom {
         }
       }
 
+      .periodical {
+        font-size: 0.92rem;
+        font-style: italic;
+        color: var(--global-text-color-light);
+        margin-bottom: 0.25rem;
+      }
+
       .keywords {
-        margin-top: 0.0rem;
-        margin-bottom: 0.0rem;
+        margin-top: 0;
+        margin-bottom: 0;
         font-size: 0.4rem;
-        color: var(--global-hover-text-color);
+        color: transparent !important;
+        opacity: 0;
       }
 
       .links {
+        margin-top: 0.35rem;
+        margin-bottom: 0;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.35rem;
+
         a.btn {
           color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
-          margin-left: 0;
+          background: transparent;
+          border: 1px solid var(--global-divider-color);
+          padding: 0.15rem 0.65rem;
+          border-radius: 4px !important;
+          font-size: 0.78rem;
+          font-weight: 500;
+          margin: 0;
+          transition: all 0.2s ease;
 
           &:hover {
             color: var(--global-theme-color);
             border-color: var(--global-theme-color);
+            background: rgba(var(--global-theme-color-rgb, 100, 100, 250), 0.04);
           }
         }
         a.award.btn {
           border-color: var(--global-highlight-color);
+          color: var(--global-highlight-color);
         }
       }
 
       .badges {
-        padding-bottom: 0.5rem;
+        padding-top: 0.2rem;
+        padding-bottom: 0;
+
         span {
           display: inline-block;
           color: $black-color;
