@@ -21,7 +21,7 @@ ninja.data = [{
           description: "In my spare time, I pursue amateur astrophotography, blending science and artistry with a particular interest in deep-sky imaging. This gallery features original astrophotographs of nebulae, star clusters, and galaxies---each captured, processed, and shared from my imaging sessions.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/astrophotographs/";
           },
         },{id: "news-presenting-a-live-demo-at-ces-2024-las-vegas-usa",
           title: 'Presenting a live demo at CES 2024, Las Vegas, USA.',
