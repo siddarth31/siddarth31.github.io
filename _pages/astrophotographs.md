@@ -1,7 +1,7 @@
 ---
 layout: page
 title: astrophotographs
-permalink: /projects/
+permalink: /astrophotographs/
 description: In my spare time, I pursue amateur astrophotography, blending science and artistry with a particular interest in deep-sky imaging. This gallery features original astrophotographs of nebulae, star clusters, and galaxies---each captured, processed, and shared from my imaging sessions.
 nav: true
 nav_order: 2
@@ -9,7 +9,7 @@ display_categories: [nebulae, star clusters, galaxies]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/astrophotographs.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

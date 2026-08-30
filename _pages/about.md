@@ -29,6 +29,6 @@ Siddarth is a Principal Research Scientist at <a href='https://www.merl.com/'>Mi
 
 He received his Ph.D. in Computer Science from <a href='https://www.northwestern.edu/'>Northwestern University</a> in 2019. In collaboration with the <a href='https://www.sralab.org/'>Shirley Ryan AbilityLab</a>, his doctoral research focused on perception and shared autonomy for assistive systems.
 
-In his spare time, he pursues amateur <a href='https://siddarth31.github.io/projects/'>astrophotography</a>, blending science and artistry with a particular interest in deep-sky imaging.
+In his spare time, he pursues amateur <a href='https://siddarth31.github.io/astrophotographs/'>astrophotography</a>, blending science and artistry with a particular interest in deep-sky imaging.
 
-<p class="bio-email-line"><i class="fa-solid fa-envelope"></i> Contact: sjain {at} merl [dot] com</p>
+<p class="bio-email-line"><i class="fa-solid fa-envelope"></i> Contact: sjain {at} merl[dot]com</p>
