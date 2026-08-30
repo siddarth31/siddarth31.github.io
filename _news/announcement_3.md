@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-11-19 16:11:00-0400
+date: 2024-10-14 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-We are hiring a Ph.D. student for Robot Learning / Perception internship. Please apply <a href="https://merl.com/employment/internship-openings#OR0239">here.</a>
+Presenting 5 papers at IROS 2024. 

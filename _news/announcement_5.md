@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-10-14 16:11:00-0400
+date: 2025-05-19 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Presenting 5 papers at IROS 2024. 
+Presenting 2 papers at ICRA 2025. 

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-06-01 15:59:00-0400
+date: 2024-01-09 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Presenting 2 papers at ICRA 2026, Vienna, Austria. 
+Presenting a live demo at CES 2024, Las Vegas, USA.

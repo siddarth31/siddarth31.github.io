@@ -31,4 +31,4 @@ He received his Ph.D. in Computer Science from <a href='https://www.northwestern
 
 In his spare time, he pursues amateur <a href='https://siddarth31.github.io/projects/'>astrophotography</a>, blending science and artistry with a particular interest in deep-sky imaging.
 
-<p class="bio-email-line"><i class="fa-solid fa-envelope"></i> Contact: sjain {at} merl[dot]com</p>
+<p class="bio-email-line"><i class="fa-solid fa-envelope"></i> Contact: sjain {at} merl [dot] com</p>

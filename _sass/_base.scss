@@ -235,6 +235,69 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// News Editorial Minimal List Layout
+.news {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+
+  .news-container {
+    padding: 0.25rem 0;
+  }
+
+  .news-list-minimal {
+    display: flex;
+    flex-direction: column;
+
+    .news-row {
+      display: flex;
+      align-items: baseline;
+      gap: 1.25rem;
+      padding: 0.5rem 0.5rem;
+      transition: background-color 0.2s ease, padding-left 0.2s ease;
+      border-radius: 4px;
+
+      .news-date {
+        flex-shrink: 0;
+        width: 105px;
+        font-size: 0.825rem;
+        font-weight: 400;
+        color: var(--global-text-color-light);
+        letter-spacing: 0.01em;
+      }
+
+      .news-body {
+        flex-grow: 1;
+        font-size: 0.925rem;
+        color: var(--global-text-color);
+        line-height: 1.5;
+
+        p {
+          margin: 0;
+          display: inline;
+        }
+
+        a.news-title {
+          color: var(--global-theme-color);
+          text-decoration: none;
+
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+
+      &:hover {
+        background-color: rgba(var(--global-theme-color-rgb, 100, 100, 250), 0.03);
+        padding-left: 0.75rem;
+
+        .news-date {
+          color: var(--global-theme-color);
+        }
+      }
+    }
+  }
+}
+
 .profile.float-right {
   margin-left: 2rem;
 }

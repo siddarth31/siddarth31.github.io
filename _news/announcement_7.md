@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-05-13 16:11:00-0400
+date: 2026-08-29 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Presenting a live demo on <a href="https://www.merl.com/news/news-20240513-1535">Autonomous Assembly</a> at ICRA 2024, Yokohama, Japan. 
+We are hiring a Ph.D. student for Robotic Manipulation for Disassembly internship. Please apply <a href="https://merl.com/employment/internship-openings#OR0298">here.</a>
